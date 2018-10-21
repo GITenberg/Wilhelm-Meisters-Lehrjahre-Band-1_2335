@@ -1,5 +1,5 @@
 _repo: Wilhelm-Meisters-Lehrjahre-Band-1_2335
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcc 'PT'
 - !lcsh 'Theater, Traveling -- Fiction'
 - !lcsh 'Bildungsromans'
+- GITenberg
 title: Wilhelm Meisters Lehrjahre — Band 1
 url: http://www.gutenberg.org/ebooks/2335
